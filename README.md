@@ -8,7 +8,7 @@
 6 remove the left and right margin for the devices below the 992px
 7 use the mobile-first approach
 
-(ttps://challengemobilefirst-dustyblue.c9users.io/index.html)
+ttps://challengemobilefirst-dustyblue.c9users.io/index.html
 
 ## I have used :
 
